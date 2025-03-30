@@ -1,3 +1,5 @@
+# this only works on mac or linux. sorry windows users >:(
+
 import shutil
 import os as compy
 
